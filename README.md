@@ -1,6 +1,7 @@
 # Click_on_ad_prediction
 
-In this project we have workied with a fake advertising data set downloaded from kaggle, indicating whether or not a particular internet user clicked on an Advertisement. We created a model that will predict whether or not they will click on an ad based off the features of that user.
+In this project we have workied with a fake advertising data set downloaded from kaggle, indicating whether or not a particular internet user clicked on an Advertisement.
+We created a model that will predict whether or not they will click on an ad based off the features of that user.
 
 This data set contains the following features:
 
